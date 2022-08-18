@@ -155,7 +155,7 @@ header {
 /*--------text-image--------*/
 
 #section {
-  background:  url(medi-3.jpg);
+  background: #000 url(medi-3.jpg);
   color: #fff;
   height: 300px;
   display: flex;
