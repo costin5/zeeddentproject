@@ -218,14 +218,14 @@ header {
 
   }
   #section-2{
-    margin-top:50px;
+    margin-top:5rem;
   }
   .descriere{
-    font-size:20px;
-    margin-left:30px;
-    margin-right:30px;
+    font-size:2rem;
+    margin-left:3rem;
+    margin-right:3rem;
   }
   .footer{
-    margin-left:50px;
+    margin-left:5rem;
   }
 }
